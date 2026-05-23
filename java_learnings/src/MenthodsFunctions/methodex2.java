@@ -2,6 +2,8 @@
 package MenthodsFunctions;
 import java.util.Scanner;
 
+//2d array example
+
 public class methodex2 {
 
     public static String getGrade(double score) {
